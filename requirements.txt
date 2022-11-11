@@ -1,6 +1,6 @@
 streamlit
 numpy
-sklearn
+scikit-learn
 streamlit-authenticator
 scipy
 pandas
