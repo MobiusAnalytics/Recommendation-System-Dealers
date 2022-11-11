@@ -1,0 +1,158 @@
+Product,Quantity,Dealer Name,Location
+Kellogg's Corn flakes,500,C&F Dealers,Bangalore
+Kellogg's Museli,500,C&F Dealers,Bangalore
+Mc Cain French Fries,1500,C&F Dealers,Bangalore
+Quaker Oats,500,C&F Dealers,Bangalore
+Lays,1000,C&F Dealers,Bangalore
+Kurkure,1000,C&F Dealers,Bangalore
+Hide and Seek biscuits,800,C&F Dealers,Bangalore
+Chocolates,900,C&F Dealers,Bangalore
+Peanut Butter,500,C&F Dealers,Bangalore
+Kissan Jam,500,C&F Dealers,Bangalore
+Biscafe,200,C&F Dealers,Bangalore
+Haldiram Snacks,250,A2Z Dealers,Lucknow
+Ready-to-cook items,100,A2Z Dealers,Lucknow
+Amul Products,200,A2Z Dealers,Lucknow
+Milk sweets,200,A2Z Dealers,Lucknow
+Pani Puri kit,500,A2Z Dealers,Lucknow
+Too yum chips,700,A2Z Dealers,Lucknow
+Monaco,500,A2Z Dealers,Lucknow
+Sweets,700,A2Z Dealers,Lucknow
+Tata Soulful Ragi Bites,1000,JJ Dealers,Delhi
+Tata Soulful Museli,1000,JJ Dealers,Delhi
+Kellogg's Chocos ,1500,JJ Dealers,Delhi
+Yippe Noodles,2000,JJ Dealers,Delhi
+Farmley Roasted Nuts,500,JJ Dealers,Delhi
+"Fruit Cake, Britannia",1500,JJ Dealers,Delhi
+Kit Kat,2000,JJ Dealers,Delhi
+Saffola Oats,1500,JJ Dealers,Delhi
+Haldiram Sweets,1500,JJ Dealers,Delhi
+Knorr Pasta & Soups,5000,SM Dealers,Chennai
+Pringles,2000,SM Dealers,Chennai
+Gery Gone Mad,2000,SM Dealers,Chennai
+Maggi Noodles,5000,SM Dealers,Chennai
+Gery Cheese biscuits,1000,SM Dealers,Chennai
+Sunfeast Waffers,700,SM Dealers,Chennai
+Dark Chocolates,500,SM Dealers,Chennai
+Britannia Biscuits,1500,SM Dealers,Chennai
+Milano Biscuits,500,SM Dealers,Chennai
+Paper Boat,1500,SM Dealers,Chennai
+Dry fruits,200,KG Dealers,Srinagar
+Dates,250,KG Dealers,Srinagar
+Milk Sweets,500,KG Dealers,Srinagar
+Sweets,300,KG Dealers,Srinagar
+Cashew sweets,150,KG Dealers,Srinagar
+Unibic biscuits,240,KG Dealers,Srinagar
+Milk Chocolates,700,KG Dealers,Srinagar
+Fruit snacks,150,KG Dealers,Srinagar
+Happilo nuts,500,KG Dealers,Srinagar
+Kellogg's Corn flakes,1500,MR Dealers,Bangalore
+Kellogg's Museli,500,MR Dealers,Bangalore
+Mc Cain French Fries,2000,MR Dealers,Bangalore
+Quaker Oats,1000,MR Dealers,Bangalore
+Lays,1500,MR Dealers,Bangalore
+Kurkure,1500,MR Dealers,Bangalore
+Hide and Seek biscuits,1500,MR Dealers,Bangalore
+Chocolates,2000,MR Dealers,Bangalore
+Biscafe,500,MR Dealers,Bangalore
+Peanut Butter,500,MR Dealers,Bangalore
+Kissan Jam,500,MR Dealers,Bangalore
+Haldiram Snacks,250,Royal Dealers,Lucknow
+Ready-to-cook items,100,Royal Dealers,Lucknow
+Bingo Mad angles,200,Royal Dealers,Lucknow
+Amul Products,200,Royal Dealers,Lucknow
+Pani Puri kit,500,Royal Dealers,Lucknow
+Sweets,700,Royal Dealers,Lucknow
+Milk sweets,500,Royal Dealers,Lucknow
+Tata Soulful Ragi Bites,1000,DC Dealers,Delhi
+Tata Soulful Museli,1000,DC Dealers,Delhi
+Kellogg's Chocos ,1500,DC Dealers,Delhi
+Yippe Noodles,2000,DC Dealers,Delhi
+Farmley Roasted Nuts,500,DC Dealers,Delhi
+"Fruit Cake, Britannia",1500,DC Dealers,Delhi
+Kit Kat,2000,DC Dealers,Delhi
+Saffola Oats,1500,DC Dealers,Delhi
+Haldiram Sweets,1500,DC Dealers,Delhi
+Pasta,1500,DC Dealers,Delhi
+Snickers,1500,DC Dealers,Delhi
+Knorr Pasta & Soups,5000,KK Dealers,Chennai
+Pringles,2000,KK Dealers,Chennai
+Gery Gone Mad,2000,KK Dealers,Chennai
+Maggi Noodles,5000,KK Dealers,Chennai
+Gery Cheese biscuits,1000,KK Dealers,Chennai
+Sunfeast Waffers,700,KK Dealers,Chennai
+Dark Chocolates,500,KK Dealers,Chennai
+Britannia Biscuits,1500,KK Dealers,Chennai
+Milano Biscuits,500,KK Dealers,Chennai
+Paper Boat,1500,KK Dealers,Chennai
+Dry fruits,200,JM Dealers,Srinagar
+Dates,250,JM Dealers,Srinagar
+Milk Sweets,500,JM Dealers,Srinagar
+Sweets,300,JM Dealers,Srinagar
+Cashew sweets,150,JM Dealers,Srinagar
+Unibic biscuits,240,JM Dealers,Srinagar
+Milk Chocolates,700,JM Dealers,Srinagar
+Fruit snacks,150,JM Dealers,Srinagar
+Happilo nuts,500,JM Dealers,Srinagar
+Kellogg's Corn flakes,5000,Pop Dealers,Bangalore
+Quaker Oats,1500,Pop Dealers,Bangalore
+Hide and Seek biscuits,500,Pop Dealers,Bangalore
+Monaco,500,A2Z Dealers,Lucknow
+Too yum chips,700,Royal Dealers,Lucknow
+Amul Products,100,GT Dealers,Lucknow
+Britannia Cakes,200,GT Dealers,Lucknow
+Milk sweets,500,GT Dealers,Lucknow
+Tata Soulful Ragi Bites,1500,SDF Dealers,Delhi
+Tata Soulful Museli,1500,SDF Dealers,Delhi
+Kellogg's Chocos ,500,CM Dealers,Chennai
+Yippe Noodles,1500,CM Dealers,Chennai
+Farmley Roasted Nuts,500,CM Dealers,Chennai
+Pasta,300,Sri Dealers,Srinagar
+Kit Kat,500,Sri Dealers,Srinagar
+Saffola Oats,1800,Pop Dealers,Bangalore
+Haldiram Sweets,1200,Pop Dealers,Bangalore
+Mc Cain French Fries,1100,Pop Dealers,Bangalore
+Quaker Oats,1200,Pop Dealers,Bangalore
+Lays,1540,Pop Dealers,Bangalore
+Kurkure,1550,Pop Dealers,Bangalore
+Hide and Seek biscuits,500,Pop Dealers,Bangalore
+Chocolates,400,Pop Dealers,Bangalore
+Biscafe,500,Pop Dealers,Bangalore
+Peanut Butter,1500,Pop Dealers,Bangalore
+Kissan Jam,1500,Pop Dealers,Bangalore
+Haldiram Snacks,250,GT Dealers,Lucknow
+Ready-to-cook items,100,GT Dealers,Lucknow
+Amul Products,200,GT Dealers,Lucknow
+Milk sweets,200,GT Dealers,Lucknow
+Pani Puri kit,500,GT Dealers,Lucknow
+Too yum chips,700,GT Dealers,Lucknow
+Monaco,500,GT Dealers,Lucknow
+Sweets,700,GT Dealers,Lucknow
+Tata Soulful Ragi Bites,1000,SDF Dealers,Delhi
+Tata Soulful Museli,1000,SDF Dealers,Delhi
+Kellogg's Chocos ,1500,SDF Dealers,Delhi
+Yippe Noodles,2000,SDF Dealers,Delhi
+Farmley Roasted Nuts,500,SDF Dealers,Delhi
+"Fruit Cake, Britannia",1500,SDF Dealers,Delhi
+Kit Kat,2000,SDF Dealers,Delhi
+Saffola Oats,1500,SDF Dealers,Delhi
+Haldiram Sweets,1500,SDF Dealers,Delhi
+Knorr Pasta & Soups,500,CM Dealers,Chennai
+Pringles,200,CM Dealers,Chennai
+Gery Gone Mad,250,CM Dealers,Chennai
+Maggi Noodles,650,CM Dealers,Chennai
+Gery Cheese biscuits,670,CM Dealers,Chennai
+Sunfeast Waffers,750,CM Dealers,Chennai
+Dark Chocolates,790,CM Dealers,Chennai
+Britannia Biscuits,980,CM Dealers,Chennai
+Milano Biscuits,540,CM Dealers,Chennai
+Paper Boat,500,CM Dealers,Chennai
+Dry fruits,150,Sri Dealers,Srinagar
+Dates,100,Sri Dealers,Srinagar
+Milk Sweets,150,Sri Dealers,Srinagar
+Sweets,200,Sri Dealers,Srinagar
+Cashew sweets,250,Sri Dealers,Srinagar
+Unibic biscuits,230,Sri Dealers,Srinagar
+Milk Chocolates,300,Sri Dealers,Srinagar
+Fruit snacks,350,Sri Dealers,Srinagar
+Happilo nuts,500,Sri Dealers,Srinagar
