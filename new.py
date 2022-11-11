@@ -198,7 +198,7 @@ if authetication_status:
                 temp_output = pd.DataFrame({"Dealer Name":name,"Dealer zone":zone,"Dealer Location":Location,"Dealer Investment Capacity (lakhs)":Investment,"Dealer Experience":Experience,"Dealer type":dealer_type,"Products ordered":pdt,"Recommendations":recom_comb},index=[0])
                 output = output.append(temp_output)
                 recom_list.append(recom)
-        recom_output = pd.DataFrame(recom_list).T.rename(columns={0:product_ordered[0],1:product_ordered[1]})
+                recom_output = pd.DataFrame(recom_list).T.rename(columns={0:product_ordered[0],1:product_ordered[1]})
                 
                 
         if st.button("PREDICT"): 
