@@ -136,7 +136,7 @@ if authetication_status:
             Investment = st.selectbox('Dealer Investment Capacity (lakhs)',("10-15 lacs","5-10 lacs","2-5 lacs"))
             Experience = st.number_input('Dealer Experience',step=1)
             dealer_type = st.selectbox('Dealer Type',("Existing","New"))
-            product_ordered = st.multiselect('Products alredy ordered',(Product_list))
+            product_ordered = st.multiselect('Products already ordered',(Product_list))
             if zone == "North":
                 zone_en = 0
             elif zone == "South":
