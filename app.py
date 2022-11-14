@@ -121,6 +121,7 @@ if authetication_status:
                         output = output.append(temp)                                                
                 dataframe_org = output.copy()
                 dataframe_org = dataframe_org.drop('Dealer type',axis=1)
+                dataframe_org = dataframe_org[['Dealer Name','Dealer Zone','Dealer Location','Dealer Investment Capacity (lakhs)','Dealer Experience (years)','Product','Recommendations']]
                 st.markdown('<p style="font-family:sans-serif; color:black;text-align:left; font-size: 12px;"><b>Table: List of Recommendations from Similar Dealers for each Dealer</b></p>',unsafe_allow_html = True)
                 st.write(dataframe_org)
                 dataframe_org =dataframe_org.to_csv(index=False).encode('utf-8')
